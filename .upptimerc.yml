@@ -17,10 +17,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl:  pokt-foundation/pokt-upptime 
-  logoUrl: https://raw.githubusercontent.com/pokt-foundation/pokt-upptime/tree/master/assets/Vector.png
+  logoUrl: https://raw.githubusercontent.com/pokt-foundation/pokt-upptime/master/assets/Vector.png
   name: Pocket Network Status
   introTitle: "Service status"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "Service message"
   navbar:
     - title: Status
       href: /

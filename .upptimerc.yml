@@ -3,12 +3,8 @@ owner: pokt-foundation # Your GitHub organization or username, where this reposi
 repo: pokt-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Portal
+    url: https://www.portal.pokt.network/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -20,10 +16,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/pokt-foundation/pokt-upptime/master/assets/Vector.png
   name: Pocket Network Status
   introTitle: "Service status"
-  introMessage: "Service message"
   navbar:
     - title: Status
-      href: /
+      href: /pokt-upptime/
     - title: Docs
       href: https://docs.pokt.network
     - title: Support

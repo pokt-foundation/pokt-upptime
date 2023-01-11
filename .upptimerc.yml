@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl:  pokt-foundation/pokt-upptime 
+  baseUrl: pokt-upptime 
   logoUrl: https://raw.githubusercontent.com/pokt-foundation/pokt-upptime/master/assets/Vector.png
   name: Pocket Network Status
   introTitle: "Service status"
@@ -24,8 +24,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Docs
+      href: https://docs.pokt.network
+    - title: Support
+      href: https://support.pokt.network
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

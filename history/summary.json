@@ -4,7 +4,7 @@
     "url": "https://www.portal.pokt.network/",
     "icon": "https://icons.duckduckgo.com/ip3/www.portal.pokt.network.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 307,
     "timeMonth": 294,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Test Broken Site",
